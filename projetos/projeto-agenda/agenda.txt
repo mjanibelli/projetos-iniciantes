@@ -1,0 +1,12 @@
+Sobre: Programa para agendar compromissos em datas escolhidas pelo usuário. O usuário insere a data, no formato (Dia/Mês/Ano),
+e o compromisso que deseja marcar, até que esteja satisfeito. O programa também pode mostrar se há algum agendamento feito 
+previamente, no momento em que o usuário abrir o programa.
+
+Bibliotecas usadas: json
+
+Guia das bibliotecas: https://docs.python.org/3/library/json.html
+
+Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização. Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente! Basta escrever o código em um único arquivo normalmente. 
+
+Além disso, o projeto também utiliza noções de salvamento em arquivos como base. Portanto, pode ser necessário
+ter conhecimento no assunto para escrever o programa.
