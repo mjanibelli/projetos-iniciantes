@@ -4,7 +4,7 @@ de senha desejado.
 
 Bibliotecas usadas: random, string
 
-Guia das Bibliotecas: 
+Guia das bibliotecas: 
 random -> https://docs.python.org/3/library/random.html
 string -> https://docs.python.org/3/library/string.html
 
