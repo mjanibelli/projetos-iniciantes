@@ -1,0 +1,6 @@
+Sobre: Programa que gera uma lista de supermercardo, contendo o item e sua quantidade, e permite ao usuário
+salvar essa lista em um arquivo '.txt' após criação dela. 
+
+Bibliotecas usadas: os (Apenas para questões gráficas).
+
+Guia das bibliotecas: https://docs.python.org/3/library/os.html
