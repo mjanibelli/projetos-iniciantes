@@ -3,4 +3,5 @@ salvar essa lista em um arquivo '.txt' após criação dela.
 
 Bibliotecas usadas: os (Apenas para questões gráficas).
 
-Guia das bibliotecas: https://docs.python.org/3/library/os.html
+Guia das bibliotecas: 
+os -> https://docs.python.org/3/library/os.html
