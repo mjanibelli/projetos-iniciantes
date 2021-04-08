@@ -2,7 +2,7 @@ import json
 
 nome_arquivo = "agenda.json"
 
-def carregarInfo():
+def carregar_info():
     try:
         with open(nome_arquivo) as arquivo:
             info = json.load(arquivo)
@@ -12,8 +12,8 @@ def carregarInfo():
         return info
 
 
-def salvarInfo(data, compromisso):
-    info = carregarInfo()
+def salvar_info(data, compromisso):
+    info = carregar_info()
 
     if info:
         info[data] = compromisso
