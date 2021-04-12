@@ -10,3 +10,4 @@ def encaixar_letra(letra_esc, palavra_maquina, palavra_secreta):
     palavra_secreta = "".join(palavra_lista)
 
     return palavra_secreta
+    

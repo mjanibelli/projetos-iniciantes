@@ -1,4 +1,3 @@
-import time
 import winsound
 import datetime
 
@@ -14,4 +13,3 @@ while True:
     if data.strftime("%d/%m/%Y") == data_marcada and hora.strftime("%H:%M") == hora_marcada:
         winsound.Beep(2500, 10000)
         break
-
