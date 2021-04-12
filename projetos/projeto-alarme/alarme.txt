@@ -1,10 +1,9 @@
 Sobre: Alarme simples onde o usuário escolhe uma data e uma hora para o alarme tocar. 
 O formato da data é importante!
 
-Bibliotecas usadas: time, datetime e winsound
+Bibliotecas usadas: datetime e winsound
 
 Guia das bibliotecas:
-time -> https://docs.python.org/3/library/time.html
 datetime -> https://docs.python.org/pt-br/3/library/datetime.html
 winsound -> https://docs.python.org/pt-br/3.7/library/winsound.html
 
