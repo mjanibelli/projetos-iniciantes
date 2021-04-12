@@ -1,4 +1,6 @@
-import time, winsound, datetime
+import time
+import winsound
+import datetime
 
 print(" Alarme ".center(30, "="))
 

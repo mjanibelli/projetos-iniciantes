@@ -1,4 +1,7 @@
-import random, os, time
+import random 
+import os 
+import time
+
 import forca_modulo
 
 print(" Jogo da Forca ".center(25, "="))

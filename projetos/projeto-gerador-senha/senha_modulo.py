@@ -1,4 +1,5 @@
-import random, string
+import random
+import string
 
 alfabeto = list(string.ascii_letters)
 numeros = list(string.digits)
