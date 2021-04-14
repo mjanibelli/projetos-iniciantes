@@ -7,6 +7,15 @@ tamanho_regex = r".{8,}"
 
 
 def validador_senha(senha: str) -> bool:
+    """Verifica se a senha inserida é válida.
+    
+    Args: 
+        senha (str): Senha a ser verificada.
+    
+    Retorna:
+        True, caso a senha seja válida.
+        False, caso a senha não seja válida.
+    """
     maisc_encontrada = re.search(maiuscula_regex, senha)
     num_encontrado = re.search(numero_regex, senha)
     chars_encontrado = re.search(char_especial_regex, senha)
