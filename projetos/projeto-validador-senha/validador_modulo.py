@@ -9,7 +9,7 @@ tamanho_regex = r".{8,}"
 def validador_senha(senha: str) -> bool:
     """Verifica se a senha inserida é válida.
     
-    Args: 
+    Parâmetros: 
         senha (str): Senha a ser verificada.
     
     Retorna:

@@ -24,7 +24,7 @@ def carregar_info() -> dict:
 def salvar_info(data: str, compromisso: str):
     """Transforma data e compromisso em um dict e salva ele em um arquivo .json.
 
-    Args:
+    Parâmetros:
         data (str): Representação, em string, de uma data.
         compromisso (str): Uma string que descreve um compromisso    
     """
