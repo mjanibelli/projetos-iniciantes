@@ -7,13 +7,3 @@ Guia das bibliotecas:
 random -> https://docs.python.org/3/library/random.html
 
 Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização. Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente! Basta escrever o código em um único arquivo normalmente. 
-
-Exemplo de menu:
-
-    Opções disponíveis:
-    [1] -> D6
-    [2] -> D8
-    [3] -> D10
-    [4] -> D12
-    [5] -> D20
-    Digite o que deseja:
