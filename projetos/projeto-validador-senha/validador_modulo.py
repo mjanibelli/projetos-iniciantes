@@ -1,3 +1,12 @@
+"""Valida as senhas.
+
+Atributos:
+    maiuscula_regex (str): Regex para letras maiúsculas.
+    numero_regex (str): Regex para números.
+    char_especial_regex (str): Regex para caracteres especias.
+    tamanho_regex (str): Regex para o tamanho.
+"""
+
 import re
 
 maiuscula_regex = r"[A-Z]+"
@@ -9,13 +18,14 @@ tamanho_regex = r".{8,}"
 def validador_senha(senha: str) -> bool:
     """Verifica se a senha inserida é válida.
     
-    Parâmetros: 
-        senha (str): Senha a ser verificada.
+    Args: 
+        senha: Senha a ser verificada.
     
     Retorna:
-        True, caso a senha seja válida.
-        False, caso a senha não seja válida.
+        True: Caso a senha seja válida.
+        False: Caso a senha não seja válida.
     """
+
     maisc_encontrada = re.search(maiuscula_regex, senha)
     num_encontrado = re.search(numero_regex, senha)
     chars_encontrado = re.search(char_especial_regex, senha)

@@ -1,7 +1,17 @@
-"""Módulo que contem uma função para simular a rolagem de um dado de N faces."""
+"""Simula rolagem de um dado."""
 from random import randint
 
 
-def rolar_dado(faces):
-    """Rola um dado com uma quantidade determinada de faces."""
+def rolar_dado(faces: int) -> int:
+    """Retorna o número sorteado.
+    
+    Args:
+        faces: Número de faces que o dado possui.
+
+    Retorna:
+        Retorna um número aleatório entre 1 e o número de faces do dado.
+    """
+
     return randint(1, faces)
+
+

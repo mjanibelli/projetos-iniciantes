@@ -1,4 +1,11 @@
-"""Módulo com funções que salvam e carregam informações sobre a agenda."""
+"""Manipula o arquivo .json.
+
+Módulo que possui funções para carregar o dicionário contido no arquivo, 
+e para salvar o dicionário no arquivo.
+
+Atributos:
+    nome_arquivo (str): Nome do arquivo .json a ser manipulado.
+"""
 
 import json
 
@@ -12,6 +19,7 @@ def carregar_info() -> dict:
         Um dicionário, caso o arquivo exista
         None, caso o arquivo não exista
     """
+
     try:
         with open(nome_arquivo) as arquivo:
             info = json.load(arquivo)
@@ -24,10 +32,11 @@ def carregar_info() -> dict:
 def salvar_info(data: str, compromisso: str):
     """Transforma data e compromisso em um dict e salva ele em um arquivo .json.
 
-    Parâmetros:
-        data (str): Representação, em string, de uma data.
-        compromisso (str): Uma string que descreve um compromisso    
+    Args:
+        data: Representação, em string, de uma data.
+        compromisso: Uma string que descreve um compromisso    
     """
+
     info = carregar_info()
 
     if info:
