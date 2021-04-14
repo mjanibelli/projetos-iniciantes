@@ -2,7 +2,7 @@ Sobre: Programa que verifica se senhas inseridas são válidas. Para uma senha s
 considerada válida ela deve conter, no mínimo, 8 caracteres, um número, uma letra
 maiúscula e um caracter especial.
 
-Bibliotecas: re, os (Apenas para questões gráficas).
+Bibliotecas: re, os(Apenas para questões gráficas).
 
 Guia das bibliotecas:
 re -> https://docs.python.org/3/library/re.html

@@ -5,6 +5,7 @@ import validador_modulo
 print(" Validador de senhas ".center(39, "="))
 print("""\nPara ser considerada válida, a senha precisa ter, no mínimo,
 uma letra maiúscula, um número, um caracter especial e 8 caracteres.""")
+
 qnt_senhas = int(input("\nDigite a quantidade de senhas a verificar: "))
 os.system("cls")
 
