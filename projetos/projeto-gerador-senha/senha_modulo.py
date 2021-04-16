@@ -1,3 +1,11 @@
+"""Verifica tamanho da senha e a gera.
+
+Atributos:
+    alfabeto (list): Lista que possui as letras do alfabeto.
+    numeros (list): Lista dos números de 0 a 9.
+    chars_especiais (list): Lista de caracteres especiais.
+"""
+
 import random
 import string
 
@@ -6,16 +14,23 @@ numeros = list(string.digits)
 chars_especiais = list(string.punctuation)
 
 
-def verificar_tamanho(tamanho_senha):
-    """Verifica o tamanho da senha. Caso ela tenha menos que 10 caracteres, retorna False."""
+def verificar_tamanho(tamanho_senha: int) -> bool:
     if int(tamanho_senha) < 10:
         return False
     else:
         return True
 
 
-def gerar_senha(tamanho_senha):
-    """Gera a senha final."""
+def gerar_senha(tamanho_senha: int) -> str:
+    """Gera a senha final.
+
+    Args:
+        tamanho_senha: tamanho da senha a ser gerada.
+
+    Retorna:
+        Retorna a senha gerada.
+    """
+
     senha_lista = []
     pedaco_senha = tamanho_senha // 3
 
