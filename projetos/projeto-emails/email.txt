@@ -11,6 +11,3 @@ os -> https://docs.python.org/3/library/os.html
 Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização.
 Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente!
 Basta escrever o código em um único arquivo normalmente.
-
-Além disso, o programa também utiliza noções de leitura de arquivos como base.
-Portanto, pode ser necessário ter conhecimento no assunto para escrever o programa.

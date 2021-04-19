@@ -1,4 +1,5 @@
-Sobre: Programa que calcula as raízes reais de uma equação do 2º grau, após o usuário inserir os valores dos coeficientes A, B e C. 
+Sobre: Programa que calcula as raízes reais de uma equação do 2º grau,
+após o usuário inserir os valores dos coeficientes A, B e C. 
 
 Bibliotecas usadas: Nenhuma biblioteca foi usada, porém a biblioteca math pode ser útil.
 
@@ -6,5 +7,5 @@ Guia das bibliotecas:
 math -> https://docs.python.org/3/library/math.html
 
 Outra resolução: Uma outra abordagem foi feita pelo usuário EduardoWS (https://github.com/EduardoWS).
-Ela ficou muito fácil de entender e muito mais completa! Para conferir entre no repositório: https://github.com/EduardoWS/calculadora-de-equacoes
-
+Ela ficou muito fácil de entender e muito mais completa!
+Para conferir entre no repositório: https://github.com/EduardoWS/calculadora-de-equacoes

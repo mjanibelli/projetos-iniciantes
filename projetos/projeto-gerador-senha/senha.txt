@@ -1,6 +1,6 @@
-Sobre: Programa que gera uma senha randomizada para o usuário, com a seguinte restrição: Ter mais de 10 caracteres, 
-ter, pelo menos, 1 número, 1 letra maiúscula e 1 caracter especial. A senha é gerada após o usuário inserir o tamanho
-de senha desejado.
+Sobre: Programa que gera uma senha randomizada para o usuário, com a seguinte restrição: 
+Ter mais de 10 caracteres, ter, pelo menos, um número, uma letra maiúscula e um caracter especial. 
+A senha é gerada após o usuário inserir o tamanho de senha desejado.
 
 Bibliotecas usadas: random, string
 
@@ -8,4 +8,6 @@ Guia das bibliotecas:
 random -> https://docs.python.org/3/library/random.html
 string -> https://docs.python.org/3/library/string.html
 
-Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização. Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente! Basta escrever o código em um único arquivo normalmente. 
+Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente!
+Basta escrever o código em um único arquivo normalmente.

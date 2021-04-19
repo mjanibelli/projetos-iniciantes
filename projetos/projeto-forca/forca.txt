@@ -7,4 +7,6 @@ random -> https://docs.python.org/3/library/random.html
 os -> https://docs.python.org/3/library/os.html
 time -> https://docs.python.org/3/library/time.html
 
-Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização. Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente! Basta escrever o código em um único arquivo normalmente. 
+Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente!
+Basta escrever o código em um único arquivo normalmente.
