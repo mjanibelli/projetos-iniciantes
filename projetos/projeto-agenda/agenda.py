@@ -21,6 +21,6 @@ while True:
         compro_agend = input("Digite o seu compromisso: ")
 
         agenda_modulo.salvar_info(data_agend, compro_agend)
-        print(f"Compromisso para o dia {data_agend} foi salvo com sucesso!")
+        print(f"\nCompromisso para o dia {data_agend} foi salvo com sucesso!")
 
-print("Obrigado por usar o programa!")
+print(" Obrigado por usar o programa! ".center(45, "="))
