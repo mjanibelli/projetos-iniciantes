@@ -1,6 +1,6 @@
 Sobre: Programa para agendar compromissos em datas escolhidas pelo usuário.
 O usuário insere a data, no formato (Dia/Mês/Ano), e o compromisso que deseja marcar, até que esteja satisfeito. 
-O programa também pode mostrar se há algum agendamento feito previamente, no momento em que o usuário abrir o programa.
+O programa também pode mostrar se há algum agendamento salvo, no momento em que o usuário abrir o programa.
 
 Bibliotecas usadas: json
 

@@ -53,5 +53,3 @@ def encontrar_emails(arquivo_user: str):
             print("Nenhum email foi encontrado neste arquivo!")
     else:
         print("Esse arquivo não foi encontrado ou está vazio! Tente novamente!")
-
- 
