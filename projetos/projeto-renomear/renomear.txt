@@ -1,0 +1,13 @@
+Sobre: Programa que renomeia arquivos escolhidos pelo usuário.
+O usuário escolhe o arquivo que deseja renomear e o novo nome.
+
+Bibliotecas usadas: time (Apenas para questões gráficas), pathlib, os
+
+Guia das bibliotecas:
+time -> https://docs.python.org/3/library/time.html
+pathlib -> https://docs.python.org/3/library/pathlib.html
+os -> https://docs.python.org/3/library/os.html
+
+Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente!
+Basta escrever o código em um único arquivo normalmente.
