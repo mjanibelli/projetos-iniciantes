@@ -1,6 +1,6 @@
 Sobre: Programa que gera uma senha randomizada para o usuário, com a seguinte restrição: 
 Ter mais de 10 caracteres, ter, pelo menos, um número, uma letra maiúscula e um caracter especial. 
-A senha é gerada após o usuário inserir o tamanho de senha desejado.
+Na minha resolução, a senha é gerada após o usuário inserir o tamanho de senha desejado.
 
 Bibliotecas usadas: random, string
 
