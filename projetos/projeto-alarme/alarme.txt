@@ -1,5 +1,4 @@
-Sobre: Alarme simples onde o usuário escolhe uma data e uma hora para o alarme tocar. 
-O formato da data é importante!
+Sobre: Programa que simula o funcionamento de um alarme simples.
 
 Bibliotecas usadas: datetime, winsound
 

@@ -1,4 +1,4 @@
-Sobre: Sistema de rolamento de dados simples, onde o usuário insere qual dado deseja rolar.
+Sobre: Programa de rolamento de dados simples, onde o usuário insere qual tipo de dado deseja rolar.
 As opções de dados usadas foram as seguintes: 6 faces, 8 faces, 10 faces, 12 faces, 20 faces.
 
 Bibliotecas usadas: random
