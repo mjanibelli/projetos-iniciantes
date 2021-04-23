@@ -1,0 +1,11 @@
+Sobre: Programa que mostra informações úteis sobre o PC.
+As informações que decidi mostrar foram relacionadas ao Sitema Operacional e ao processador.
+
+Bibliotecas usadas: platform
+
+Guia das bibliotecas:
+platform -> https://docs.python.org/3/library/platform.html
+
+Observações: Esse projeto foi feito utilizando conhecimentos sobre funções para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo tranquilamente!
+Basta escrever o código em um único arquivo normalmente.
