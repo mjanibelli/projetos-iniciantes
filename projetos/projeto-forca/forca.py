@@ -6,7 +6,8 @@ import forca_modulo
 
 print(" Jogo da Forca ".center(25, "="))
 
-lista_palavras = ["amigos", "programação", "computador", "jogos", "musicas", "guarda-chuva"]
+lista_palavras = ["amigos", "programação", "computador",
+                    "jogos", "musicas", "guarda-chuva"]
 palavra_maquina = random.choice(lista_palavras)
 chances = 6
 
