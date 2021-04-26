@@ -1,0 +1,11 @@
+Sobre: Programa que simula o funcionamento de uma conta bancária.
+As funções utilizadas foram as de depósito, saque e informações de conta.
+
+Bibliotecas usadas: os (Apenas para questões gráficas)
+
+Guia das bibliotecas:
+os -> https://docs.python.org/3/library/os.html
+
+Observações: Esse projeto foi feito utilizando conhecimentos sobre classes para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo!
+Basta escrever o código em um único arquivo normalmente.
