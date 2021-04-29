@@ -1,3 +1,6 @@
+"""Módulo para simular uma conta bancária."""
+
+
 class ContaBancaria:
     """Classe que representa uma conta bancária.
     
