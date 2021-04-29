@@ -1,0 +1,13 @@
+Sobre: Programa que simula o funcionamento de um restaurante.
+Foram utilizadas as ideias de atendimento a um cliente, e a de geração de um
+resultado que mostra os clientes atendidos e o faturamento.
+
+Bibliotecas usadas: os (Apenas para questões gráficas), time (Apenas para questões gráficas)
+
+Guia das bibliotecas:
+os -> https://docs.python.org/3/library/os.html
+time -> https://docs.python.org/3/library/time.html
+
+Observações: Esse projeto foi feito utilizando conhecimentos sobre classes para facilitar a realização.
+Caso você ainda não tenha estudado sobre isso, porém, ainda é possível realizá-lo!
+Basta escrever o código em um único arquivo normalmente.
